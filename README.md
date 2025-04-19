@@ -1,6 +1,6 @@
 # Starcoin 开发者网站
 
-### Pre-Requirement
+### Pre-Requirement  
 
 1. Install [hugo](https://gohugo.io/getting-started/installing/) > 0.68.0
 
